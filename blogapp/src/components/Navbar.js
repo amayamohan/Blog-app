@@ -19,7 +19,7 @@ function Navbar() {
                     <a class="nav-link" href="/">Home</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Products</a>
+                    <a class="nav-link" href="/">Places</a>
                     {/* <Link class="nav-link" to="/productDetails">Products</Link> */}
 
                 </li>
