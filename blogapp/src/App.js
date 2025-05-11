@@ -1,6 +1,7 @@
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 import Navbar from './components/Navbar';
 import Productcard from './components/Productcard';
 import Footer from './components/Footer';
@@ -14,6 +15,7 @@ function App() {
       <div className="App">
         <Navbar />
         <Routes>
+           
           <Route path="/"  element={<Productcard/>} />
           <Route path="/product/:id" element={<Details/>} /> {/* Details page route */}
           <Route path="/create" element={<Form/>} />
