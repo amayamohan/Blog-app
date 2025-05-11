@@ -14,7 +14,7 @@ function Footer() {
                 <h5>Quick Links</h5>
                 <ul class="list-unstyled">
                     <li><a href="#" class="text-white">Home</a></li>
-                    <li><a href="#" class="text-white">Products</a></li>
+                    <li><a href="#" class="text-white">Places</a></li>
                     <li><a href="#" class="text-white">Contact</a></li>
                     <li><a href="#" class="text-white">Cart</a></li>
                 </ul>
